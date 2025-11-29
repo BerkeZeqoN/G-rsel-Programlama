@@ -1,0 +1,14 @@
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\bin\Debug\net8.0\Pseudocode Algorithm.exe
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\bin\Debug\net8.0\Pseudocode Algorithm.deps.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\bin\Debug\net8.0\Pseudocode Algorithm.runtimeconfig.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\bin\Debug\net8.0\Pseudocode Algorithm.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\bin\Debug\net8.0\Pseudocode Algorithm.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\Pseudocode Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\Pseudocode Algorithm.AssemblyInfoInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\Pseudocode Algorithm.AssemblyInfo.cs
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\Pseudocode Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\Pseudocode Algorithm.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\refint\Pseudocode Algorithm.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\Pseudocode Algorithm.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\Pseudocode Algorithm.genruntimeconfig.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Pseudocode Algorithm\Pseudocode Algorithm\obj\Debug\net8.0\ref\Pseudocode Algorithm.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demonstrating ref, out and Value Parameters/1.0.0": {
+        "runtime": {
+          "Demonstrating ref, out and Value Parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demonstrating ref, out and Value Parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

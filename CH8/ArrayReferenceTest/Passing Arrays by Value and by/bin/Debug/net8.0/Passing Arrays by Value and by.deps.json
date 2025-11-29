@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Passing Arrays by Value and by/1.0.0": {
+        "runtime": {
+          "Passing Arrays by Value and by.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passing Arrays by Value and by/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

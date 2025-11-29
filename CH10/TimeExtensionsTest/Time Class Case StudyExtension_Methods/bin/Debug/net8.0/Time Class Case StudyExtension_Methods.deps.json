@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Time Class Case StudyExtension_Methods/1.0.0": {
+        "runtime": {
+          "Time Class Case StudyExtension_Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Time Class Case StudyExtension_Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

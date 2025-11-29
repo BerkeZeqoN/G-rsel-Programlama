@@ -1,0 +1,14 @@
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\bin\Debug\net8.0\Passing Arrays by Value and by.exe
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\bin\Debug\net8.0\Passing Arrays by Value and by.deps.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\bin\Debug\net8.0\Passing Arrays by Value and by.runtimeconfig.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\bin\Debug\net8.0\Passing Arrays by Value and by.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\bin\Debug\net8.0\Passing Arrays by Value and by.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\Passing Arrays by Value and by.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\Passing Arrays by Value and by.AssemblyInfoInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\Passing Arrays by Value and by.AssemblyInfo.cs
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\Passing Arrays by Value and by.csproj.CoreCompileInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\Passing Arrays by Value and by.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\refint\Passing Arrays by Value and by.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\Passing Arrays by Value and by.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\Passing Arrays by Value and by.genruntimeconfig.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Passing Arrays by Value and by\Passing Arrays by Value and by\obj\Debug\net8.0\ref\Passing Arrays by Value and by.dll

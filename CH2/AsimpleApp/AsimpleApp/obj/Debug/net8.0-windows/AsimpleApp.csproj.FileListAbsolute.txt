@@ -1,0 +1,17 @@
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\bin\Debug\net8.0-windows\AsimpleApp.exe
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\bin\Debug\net8.0-windows\AsimpleApp.deps.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\bin\Debug\net8.0-windows\AsimpleApp.runtimeconfig.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\bin\Debug\net8.0-windows\AsimpleApp.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\bin\Debug\net8.0-windows\AsimpleApp.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.Form1.resources
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.Properties.Resources.resources
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.csproj.GenerateResource.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.AssemblyInfoInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.AssemblyInfo.cs
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\refint\AsimpleApp.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\AsimpleApp.genruntimeconfig.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AsimpleApp\AsimpleApp\obj\Debug\net8.0-windows\ref\AsimpleApp.dll

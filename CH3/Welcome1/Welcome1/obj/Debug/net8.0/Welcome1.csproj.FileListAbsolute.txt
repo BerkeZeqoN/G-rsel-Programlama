@@ -1,0 +1,14 @@
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\Welcome1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\Welcome1.AssemblyInfoInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\Welcome1.AssemblyInfo.cs
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\Welcome1.csproj.CoreCompileInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\bin\Debug\net8.0\Welcome1.exe
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\bin\Debug\net8.0\Welcome1.deps.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\bin\Debug\net8.0\Welcome1.runtimeconfig.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\bin\Debug\net8.0\Welcome1.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\bin\Debug\net8.0\Welcome1.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\Welcome1.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\refint\Welcome1.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\Welcome1.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\Welcome1.genruntimeconfig.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Welcome1\Welcome1\obj\Debug\net8.0\ref\Welcome1.dll

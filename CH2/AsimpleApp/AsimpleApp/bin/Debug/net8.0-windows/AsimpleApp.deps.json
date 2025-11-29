@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AsimpleApp/1.0.0": {
+        "runtime": {
+          "AsimpleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsimpleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

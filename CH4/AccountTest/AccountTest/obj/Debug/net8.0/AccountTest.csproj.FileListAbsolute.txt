@@ -1,0 +1,14 @@
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\bin\Debug\net8.0\AccountTest.exe
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\bin\Debug\net8.0\AccountTest.deps.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\bin\Debug\net8.0\AccountTest.runtimeconfig.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\bin\Debug\net8.0\AccountTest.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\bin\Debug\net8.0\AccountTest.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\AccountTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\AccountTest.AssemblyInfoInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\AccountTest.AssemblyInfo.cs
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\AccountTest.csproj.CoreCompileInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\AccountTest.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\refint\AccountTest.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\AccountTest.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\AccountTest.genruntimeconfig.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\AccountTest\AccountTest\obj\Debug\net8.0\ref\AccountTest.dll

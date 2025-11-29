@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joeel\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama\\Logical Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CDA676D-6572-40A0-BBA2-728ED31498BF}|Logical Operators\\Logical Operators.csproj|c:\\users\\joeel\\onedrive\\masa\u00FCst\u00FC\\g\u00F6rsel programlama\\logical operators\\logical operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CDA676D-6572-40A0-BBA2-728ED31498BF}|Logical Operators\\Logical Operators.csproj|solutionrelative:logical operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joeel\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama\\Logical Operators\\Logical Operators\\Program.cs",
+              "RelativeDocumentMoniker": "Logical Operators\\Program.cs",
+              "ToolTip": "C:\\Users\\joeel\\OneDrive\\Masa\u00FCst\u00FC\\G\u00F6rsel Programlama\\Logical Operators\\Logical Operators\\Program.cs",
+              "RelativeToolTip": "Logical Operators\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T16:05:18.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
