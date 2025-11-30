@@ -1,0 +1,16 @@
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\bin\Debug\net8.0-windows\Painter.exe
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\bin\Debug\net8.0-windows\Painter.deps.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\bin\Debug\net8.0-windows\Painter.runtimeconfig.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\bin\Debug\net8.0-windows\Painter.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\bin\Debug\net8.0-windows\Painter.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.Form1.resources
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.csproj.GenerateResource.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.AssemblyInfoInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.AssemblyInfo.cs
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.csproj.CoreCompileInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\refint\Painter.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\Painter.genruntimeconfig.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Painter\Painter\obj\Debug\net8.0-windows\ref\Painter.dll
