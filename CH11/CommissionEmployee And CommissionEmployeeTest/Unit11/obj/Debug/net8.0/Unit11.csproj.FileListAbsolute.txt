@@ -1,0 +1,14 @@
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\Unit11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\Unit11.AssemblyInfoInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\Unit11.AssemblyInfo.cs
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\Unit11.csproj.CoreCompileInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\bin\Debug\net8.0\Unit11.exe
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\bin\Debug\net8.0\Unit11.deps.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\bin\Debug\net8.0\Unit11.runtimeconfig.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\bin\Debug\net8.0\Unit11.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\bin\Debug\net8.0\Unit11.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\Unit11.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\refint\Unit11.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\Unit11.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\Unit11.genruntimeconfig.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\Unit11\Unit11\obj\Debug\net8.0\ref\Unit11.dll

@@ -1,0 +1,14 @@
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\BasePlusCommissionEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\BasePlusCommissionEmployee.AssemblyInfoInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\BasePlusCommissionEmployee.AssemblyInfo.cs
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\BasePlusCommissionEmployee.csproj.CoreCompileInputs.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net8.0\BasePlusCommissionEmployee.exe
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net8.0\BasePlusCommissionEmployee.deps.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net8.0\BasePlusCommissionEmployee.runtimeconfig.json
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net8.0\BasePlusCommissionEmployee.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\bin\Debug\net8.0\BasePlusCommissionEmployee.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\BasePlusCommissionEmployee.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\refint\BasePlusCommissionEmployee.dll
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\BasePlusCommissionEmployee.pdb
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\BasePlusCommissionEmployee.genruntimeconfig.cache
+C:\Users\joeel\OneDrive\Masaüstü\Görsel Programlama\BasePlusCommissionEmployee\BasePlusCommissionEmployee\obj\Debug\net8.0\ref\BasePlusCommissionEmployee.dll
