@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\bin\Debug\net6.0\StringConstructor.exe
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\bin\Debug\net6.0\StringConstructor.deps.json
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\bin\Debug\net6.0\StringConstructor.runtimeconfig.json
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\bin\Debug\net6.0\StringConstructor.dll
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\bin\Debug\net6.0\StringConstructor.pdb
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\StringConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\StringConstructor.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\StringConstructor.AssemblyInfo.cs
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\StringConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\StringConstructor.dll
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\refint\StringConstructor.dll
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\StringConstructor.pdb
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\StringConstructor.genruntimeconfig.cache
+C:\Users\Hp\source\repos\StringConstructor\StringConstructor\obj\Debug\net6.0\ref\StringConstructor.dll
